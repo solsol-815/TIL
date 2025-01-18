@@ -1,0 +1,1 @@
+![JVM 메모리 구조](https://i.postimg.cc/gkY0bgyj/Screenshot-2025-01-16-at-3-02-32-PM.png)
