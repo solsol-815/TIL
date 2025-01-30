@@ -1,5 +1,19 @@
 # 📚 SPA와 SSR의 개념과 차이점, SEO와의 관계
 
+## 목차📑
+- [📚 SPA와 SSR의 개념과 차이점, SEO와의 관계](#-spa와-ssr의-개념과-차이점-seo와의-관계)
+  - [목차📑](#목차)
+  - [SPA(Single Page Application)](#spasingle-page-application)
+    - [개념](#개념)
+  - [SSR(Server Side Rendering)](#ssrserver-side-rendering)
+    - [개념](#개념-1)
+  - [SEO(Server Engine Optimization)의 이해](#seoserver-engine-optimization의-이해)
+    - [개념](#개념-2)
+    - [검색 엔진의 작동 방식](#검색-엔진의-작동-방식)
+    - [SEO 주요 요소](#seo-주요-요소)
+    - [SEO의 중요성](#seo의-중요성)
+    - [최신 SEO 트렌드](#최신-seo-트렌드)
+
 ## SPA(Single Page Application)
 ### 개념
 - SPA는 단일 HTML 페이지를 기반으로 작동하는 웹 애플리케이션 방식
