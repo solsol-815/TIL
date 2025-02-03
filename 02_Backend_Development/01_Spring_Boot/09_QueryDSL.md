@@ -191,8 +191,8 @@ public Page<UserDto> searchPageOptimized(UserSearchCondition condition, Pageable
             usernameEq(condition.getUsername()),
             ageGoe(condition.getAgeGoe())
         )
-        .offset(pageable.getOffset())
-        .limit(pageable.getPageSize())
+        .offset(pageable.getOffset())   // 시작위치
+        .limit(pageable.getPageSize())  // 페이지 크기k
         .fetch();
 
     // 최적화된 카운트 쿼리
